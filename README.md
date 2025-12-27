@@ -2,6 +2,12 @@
 
 **CLASSIFIED - EYES ONLY - ALIEN TECHNOLOGY DETECTED**
 
+## 🔗 Live Demo & Contract
+
+**🌐 Live Demo:** [View on Vercel](https://topsecretinfo.vercel.app)  
+**📄 Smart Contract:** [`0x0ec68b4C5F80C1e3EeF2BC62aBb00Bf780f3EC01`](https://sepolia.etherscan.io/address/0x0ec68b4C5F80C1e3EeF2BC62aBb00Bf780f3EC01)  
+**🌍 Network:** Sepolia Testnet
+
 ## ⚠️ WARNING ⚠️
 
 This project contains **TOP SECRET** encrypted information that the government doesn't want you to know about. All data is encrypted using **ALIEN TECHNOLOGY** (also known as Fully Homomorphic Encryption, but that's what THEY want you to think).
